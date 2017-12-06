@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView Ejercicio 21: Complicado</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aniadir">Añadir</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>

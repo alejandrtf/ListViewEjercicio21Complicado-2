@@ -1,0 +1,4 @@
+#Wed Dec 06 16:44:29 CET 2017
+base.0=D\:\\Projects\\AndroidStudioProjects\\ListViewEjercicio21Complicado2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
